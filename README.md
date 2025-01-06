@@ -1,4 +1,4 @@
-# clean-architecture
+# Clean Architecture vs. Vertical Slice Architecture
 
 In Clean Architecture the application is divided into horizontal layers. This allows to easy switch out e.g. the UI or the database.
 In Vertical Slice Architecture the application is divided into vertical slices. This allows to easy switch out an entire use case or add a new use case without changing any existing use case.
